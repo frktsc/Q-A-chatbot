@@ -17,7 +17,7 @@ def get_Response(question):
 
 st.set_page_config(page_title="Q-A CHATBOT")
 
-st.header("Gemini LLM Application")
+st.header("Q-A CHATBOT")
 
 input=st.text_input("Input: ",key="input")
 
